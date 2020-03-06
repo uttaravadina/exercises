@@ -36,7 +36,7 @@ Return the sum of all values held at `amount` for each bank object
     Ohio
     Georgia
     Delaware
-  take each `amount` and add 18.9% interest to it rounded to the nearest cent
+  take each `amount` and take 18.9% interest of it rounded to the nearest cent
   and then sum it all up into one value saved to `sumOfInterests`
 
 - **higherStateSums()**  
