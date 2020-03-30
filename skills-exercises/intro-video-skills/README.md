@@ -2,8 +2,7 @@
 
 ## **Submission**
 
-### Put the URL of the loom or youtube video here.
-
+### Put the URL of the loom or YouTube video here.
 ### URL: ________
 
 _Example-_
@@ -15,8 +14,8 @@ After adding the URL, follow the instructions.
 - Create a branch with name of your choice.
   - Example branch name - `intro-video`
 - Commit the README.md file in that branch
-- Push the branch to your repository
-- Make a PR. **Make sure NOT to merge it.**
+- Push the branch to **YOUR** repository
+- Make a PR. **Make sure NOT to merge it**
 
 ## **What to do?**
 
