@@ -1,5 +1,11 @@
 # Instruction
 
+# Submission
+
+Game URL: _____
+
+Mockup URL: _____
+
 ## How to do the question
 - Make a new branch `snake-game`.
 - `cd` into `snake-game-react` folder.
@@ -16,6 +22,14 @@
 - The game should be deployed on a static web hosting site such as `github.io` or `netlify.com`.
 - The UX/UI is totally up to you. 
 - The game should initially have no backend. Everything should run on the front-end.
+
+# Creating Mockups
+- Create a basic mockup before you start writing code for the game
+- Use [Balsamiq](https://balsamiq.cloud/) to create Mockups
+- Once you are done with the Mockup, click on `Share` on top right and enable `Allow Public Reviews` and copy the link and paste in the README above
+- The mockup should have all the major components that would be in the actual game
+- Don’t put too much focus on the quality of sketches put just enough details so you’ll be able to review and refine your sketches later
+- Sample Mockup, https://balsamiq.cloud/swxx4te/pkp3y50
 
 # Requirements
 - The purpose of the exercise is to write good code and have good design.
