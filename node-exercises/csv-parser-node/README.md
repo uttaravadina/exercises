@@ -111,6 +111,8 @@ YOUR_API.detect(CSV_STRING)
 ## Restrictions
 - You should not be using any extra libraries.
 	- Apart from `eslint`, `prettier`, `babel` or other helper utilities.
+- If your library is not using streams, it won't be evaluated.
+- If your library does not have tests, it won't be evaluated.
 
 ## CSV Rules
 
