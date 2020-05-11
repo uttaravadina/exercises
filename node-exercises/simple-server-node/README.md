@@ -45,6 +45,15 @@ For inspiration, you can look at —
     - _Make sure you follow this point._ You code will not be evaluated if you are using ES5 features which can be written in ES6+ easily.
     - Here's a [list](https://github.com/addyosmani/es6-equivalents-in-es5) of ES5/ES6+ equivalent features. 
 
+## After you have built your server
+
+- Create a Login/Signup flow. A basic flow is --
+    - Make a HTML file containing a form (login and signup)
+    - Ask the user to fill the form and submit it. 
+    - Store the data in a JSON file and when next time the user logs in, show him/her a private route.
+- The CSS is otpional and totally up to you.
+
+
 ## Extra Features
 
 - A template engine such that given an HTML file as the following one—
