@@ -1,6 +1,6 @@
 # Instructions
 
-- Given a string with numbers separated by `\n`, return the sum of these numbers
+- Given a numeric string where each number is separated by `\n`, return the sum of these numbers
 
 For example -
 
