@@ -4,7 +4,7 @@ Create a function that invokes `func` with arguments reversed.
 
 ```js
 var flipped = flipArgs(function() {
-  return _.toArray(arguments);
+  console.log(arguments);
 });
  
 flipped('a', 'b', 'c', 'd');
