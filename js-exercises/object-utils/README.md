@@ -24,7 +24,7 @@ Inverts key value pairs.
 Merge n number of objects into a single object.
 
 ## all
-Look at `Array.prototype.all`. Same concept for `all`.
+Look at `Array.prototype.every`. Same concept for `every`.
 
 ## Some
 Look at `Array.prototype.some`. Same concept for `some`.
