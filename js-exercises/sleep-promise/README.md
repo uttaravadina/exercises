@@ -1,8 +1,8 @@
-## Instructions
+# Instructions
 
-sleep-promise resolves a promise after a specified delay.
+`sleep` resolves a promise after a specified delay.
 
-Usage
+## Example
 
 ```js
 (async () => {
