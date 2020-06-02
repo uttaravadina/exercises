@@ -1,4 +1,4 @@
-## Instructions
+# Instructions
 
 Write a method that checks for equality with descriptors and without descriptors.
 Performs a deep comparison between two values to determine if they are equivalent.
@@ -12,3 +12,5 @@ Object.defineProperty(obj2, "a", { value: 5 });
 deepEqual(obj, obj2); //=> true
 deepEqual(obj, obj2, { matchDescriptors: true }); //=> false
 ```
+# Restrictions
+- Don't use `JSON.parse`, `eval`, or `Function`.

@@ -1,7 +1,7 @@
+// You can use the function from the `Math` module.
 
-// Don't change the export values.
-// You can use the function in the Math module
 
+// Don't change the exported names. 
 export {
   sqrt,
   power,

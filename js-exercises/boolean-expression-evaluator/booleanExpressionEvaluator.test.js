@@ -1,7 +1,7 @@
 import { booleanExpressionEvaluator } from './booleanExpressionEvaluator';
 
 describe('booleanExpressionEvaluator', () => {
-  it('return the evaulated result', () => {
+  it('return the evaluated result', () => {
     // simple expressions
     expect(booleanExpressionEvaluator('!true')).toEqual(false);
     expect(booleanExpressionEvaluator('!false')).toEqual(true);
