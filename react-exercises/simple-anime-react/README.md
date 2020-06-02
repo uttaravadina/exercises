@@ -14,7 +14,7 @@ You can make your own API names. You can use either CSS to animate, or JavaScrip
 - (Post)[https://popmotion.io/pose/api/]
 - (React Transition Groups)[https://www.npmjs.com/package/react-transition-group]
 - (React Awesome Reveal)[https://www.npmjs.com/package/react-awesome-reveal]
-- [Framer Motion](https://www.framer.com/motion/)
+- (Framer Motion)[https://www.framer.com/motion/]
 
 # Restrictions
 - You can use any lib for easing effects. 
