@@ -12,6 +12,7 @@ Your aim is to create a Confetti rain project in React as shown in following gif
   - `Toggle` button click should change confetti rain direction, bottom to top.
 - Deploy your project on cloud platform of your choice(ex. Netlify, Heroku, AWS, etc)
 - You can use simple square boxes of small size(not more than 24px X 24px) as confetti.
+- Do not use CSS keyframe to implement Animation. use requestAnimationFrame.
 
 ## Workflow
 
