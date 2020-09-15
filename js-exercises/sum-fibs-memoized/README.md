@@ -6,7 +6,7 @@ This question have following two parts
 
 **Part 1: Write a function `sumFibs` to calculate fibonacci sum**
 
-Given a positive integer num, return the sum of all odd Fibonacci
+Given a positive integer num, return the sum of all **ODD** Fibonacci
 numbers that are less than or equal to num.
 The first two numbers in the Fibonacci sequence are 1 and 1.
 Every additional number in the sequence is the sum of the two
